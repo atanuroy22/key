@@ -11,16 +11,16 @@
       "image": ""
     }
   ],
-  "Football": [
+  "Jio Savan": [
     {
-      "name": "Live Sports",
-      "url": "",
-      "image": ""
+      "name": "Jio Saavan web",
+      "url": "https://hatstar.netlify.app/ott/music",
+      "image": "https://www.jiosaavn.com/corporate/_i/brand-guide/jiosaavn-logo-inline.png"
     }
   ],
   "Jiotv+": [
     {
-      "name": "Jiotv+",
+      "name": "Jiotv+ web",
       "url": "https://hatstar.netlify.app/live/jio",
       "image": "https://iili.io/f1zkPwP.md.png"
     }
