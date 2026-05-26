@@ -1,9 +1,9 @@
 {
   "IPL": [
     {
-      "name": "Google I/O Keynote",
-      "url": "",
-      "image": ""
+      "name": "IPL",
+      "url": "https://shwe7ank-jeeyo.netlify.app/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTeU5v3JhcqVQ5oXmgHTO9x2hvSh3vyq5n-Q&s"
     },
     {
       "name": "Live Sports",
@@ -11,9 +11,9 @@
       "image": ""
     }
   ],
-  "Jio Savan": [
+  "Jio Saavn": [
     {
-      "name": "Jio Saavan web",
+      "name": "Jio Saavn web",
       "url": "https://hatstar.netlify.app/ott/music",
       "image": "https://www.jiosaavn.com/corporate/_i/brand-guide/jiosaavn-logo-inline.png"
     }
@@ -21,7 +21,7 @@
   "Jiotv+": [
     {
       "name": "Jiotv+ web",
-      "url": "https://hatstar.netlify.app/live/jio",
+      "url": "https://hatstar.netlify.app/",
       "image": "https://iili.io/f1zkPwP.md.png"
     }
   ]
