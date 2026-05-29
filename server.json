@@ -29,7 +29,8 @@
     {
       "name": "Star web",
       "url": "https://jiostarplaylistm3u.gojo45749.workers.dev/",
-      "image": "https://crystalpng.com/wp-content/uploads/2025/09/star-tv-logo.png"
+      "image": "https://crystalpng.com/wp-content/uploads/2025/09/star-tv-logo.png",
+      "m3u": "true"
     }
   ]
 }
