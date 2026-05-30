@@ -31,6 +31,12 @@
       "url": "https://jiostarplaylistm3u.gojo45749.workers.dev/",
       "image": "https://crystalpng.com/wp-content/uploads/2025/09/star-tv-logo.png",
       "m3u": "true"
+    },
+    {
+      "name": "Star web 2",
+      "url": "https://jio.infinitytv.indevs.in?playlist",
+      "image": "https://crystalpng.com/wp-content/uploads/2025/09/star-tv-logo.png",
+      "m3u": "true"
     }
   ]
 }
