@@ -1,22 +1,20 @@
 {
-  "IPL": [
+  "Movies": [
     {
-      "name": "IPL web",
-      "url": "https://jiotvplus.dr-strange.workers.dev",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTeU5v3JhcqVQ5oXmgHTO9x2hvSh3vyq5n-Q&s"
+      "name": "Cinevive Movies",
+      "url": "https://cinevibe.asia/",
+      "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
     },
     {
-      "name": "IPL web 2",
-      "url": "https://shwe7ank-jeeyo.netlify.app",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTeU5v3JhcqVQ5oXmgHTO9x2hvSh3vyq5n-Q&s"
-    }
-  ],
-  "Jio Saavn": [
+      "name": "Hexa Movies",
+      "url": "https://hexa.su/movies",
+      "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
+    },
     {
-      "name": "Jio Saavn web",
-      "url": "https://hatstar.netlify.app/ott/music",
-      "image": "https://www.jiosaavn.com/corporate/_i/brand-guide/jiosaavn-logo-inline.png"
-    }
+      "name": "Boredflix Movies",
+      "url": "https://www.boredflix.tv/",
+      "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
+    },
   ],
   "Jiotv+": [
     {
@@ -25,17 +23,11 @@
       "image": "https://iili.io/f1zkPwP.md.png"
     }
   ],
-  "Star": [
+  "Others": [
     {
-      "name": "Star web",
-      "url": "https://jiostarplaylistm3u.gojo45749.workers.dev/",
-      "image": "https://crystalpng.com/wp-content/uploads/2025/09/star-tv-logo.png",
-      "m3u": "true"
-    },
-    {
-      "name": "Star web 2",
-      "url": "https://jio.infinitytv.indevs.in?playlist",
-      "image": "https://crystalpng.com/wp-content/uploads/2025/09/star-tv-logo.png",
+      "name": "Yupptv",
+      "url": "https://www.yupptv.com/fast-tv",
+      "image": "https://sla-digital.com/content/uploads/2016/11/Untitled-design-37-1024x616.png",
       "m3u": "true"
     }
   ]
