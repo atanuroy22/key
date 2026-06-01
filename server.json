@@ -1,8 +1,8 @@
 {
   "Movies": [
     {
-      "name": "Cinevive Movies",
-      "url": "https://cinevibe.asia/",
+      "name": "1tube Movies",
+      "url": "https://www.1tube.org/movies",
       "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
     },
     {
@@ -15,6 +15,11 @@
       "url": "https://www.boredflix.tv/",
       "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
     },
+    {
+      "name": "Cinevive Movies",
+      "url": "https://cinevibe.asia/",
+      "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
+    }
   ],
   "Jiotv+": [
     {
