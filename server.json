@@ -28,28 +28,14 @@
   ],
   "Jiotv+": [
     {
-      "name": "Jiotv+ TLL",
-      "url": "https://servertvhub.site/jiotv+/playlist.php",
-      "image": "https://iili.io/f1zkPwP.md.png",
-      "m3u": "true"
-    },
-    {
       "name": "Jiotv+ web",
       "url": "https://hatstar.netlify.app/",
       "image": "https://iili.io/f1zkPwP.md.png"
     }
   ],
-  "Tata web": [
+  "Extras": [
     {
-      "name": "Tata Web",
-      "url": "https://servertvhub.site/cache/playlist.php",
-      "image": "https://sla-digital.com/content/uploads/2016/11/Untitled-design-37-1024x616.png",
-      "m3u": "true"
-    }
-  ],
-  "Others": [
-    {
-      "name": "Yupptv",
+      "name": "Yupptv web",
       "url": "https://www.yupptv.com/fast-tv",
       "image": "https://sla-digital.com/content/uploads/2016/11/Untitled-design-37-1024x616.png"
     }
