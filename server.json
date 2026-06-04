@@ -38,6 +38,12 @@
       "name": "Yupptv web",
       "url": "https://www.yupptv.com/fast-tv",
       "image": "https://sla-digital.com/content/uploads/2016/11/Untitled-design-37-1024x616.png"
+    },
+    {
+      "name": "StreamX",
+      "url": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/api/v1/channels.json",
+      "image": "https://sla-digital.com/content/uploads/2016/11/Untitled-design-37-1024x616.png",
+      "m3u": "true"
     }
   ]
 }
