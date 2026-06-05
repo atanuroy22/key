@@ -32,7 +32,8 @@
     {
       "name": "StreamX IPTV",
       "url": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/api/v1/channels.json",
-      "image": "https://images.dwncdn.net/images/t_app-icon-l/p/f4c00b0d-1f1c-43b9-b52f-5558b3502f3d/3707361364/iptv-player-smart-m3u8-cast-logo"
+      "image": "https://images.dwncdn.net/images/t_app-icon-l/p/f4c00b0d-1f1c-43b9-b52f-5558b3502f3d/3707361364/iptv-player-smart-m3u8-cast-logo",
+      "m3u": "true"
     }
   ],
   "Sports": [
