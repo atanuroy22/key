@@ -6,16 +6,6 @@
       "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
     },
     {
-      "name": "Bollyzone Movies",
-      "url": "https://www.bollyzone.to/homepage",
-      "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
-    },
-    {
-      "name": "1tube Movies",
-      "url": "https://www.1tube.org/movies",
-      "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
-    },
-    {
       "name": "Hexa Movies",
       "url": "https://hexa.su/movies",
       "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
@@ -40,9 +30,16 @@
       "image": "https://sla-digital.com/content/uploads/2016/11/Untitled-design-37-1024x616.png"
     },
     {
+      "name": "StreamX IPTV",
+      "url": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/api/v1/channels.json",
+      "image": "https://images.dwncdn.net/images/t_app-icon-l/p/f4c00b0d-1f1c-43b9-b52f-5558b3502f3d/3707361364/iptv-player-smart-m3u8-cast-logo"
+    }
+  ],
+  "Sports": [
+    {
       "name": "Cric HD web",
       "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json",
-      "image": "https://sla-digital.com/content/uploads/2016/11/Untitled-design-37-1024x616.png",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
       "m3u": "true"
     }
   ]
