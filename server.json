@@ -16,12 +16,6 @@
       "name": "Jiotv+ web",
       "url": "https://hatstar.netlify.app/",
       "image": "https://iili.io/f1zkPwP.md.png"
-    },
-    {
-      "name": "Jiotv+ TLL",
-      "url": "https://jiostarplaylistm3u.gojo45749.workers.dev/",
-      "image": "https://iili.io/f1zkPwP.md.png",
-      "m3u": "true"
     }
   ],
   "Extras": [
