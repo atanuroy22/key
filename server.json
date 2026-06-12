@@ -1,11 +1,6 @@
 {
   "Movies": [
     {
-      "name": "Moviebox Movies",
-      "url": "https://moviebox.ph/",
-      "image": "https://www.moviesbox.com.co/wp-content/uploads/2025/08/moviebox-logo.webp"
-    },
-    {
       "name": "Cinevive Movies",
       "url": "https://cinevibe.asia/",
       "image": "https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg"
