@@ -56,5 +56,13 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNeq5o5PVPqx-Y86GSp7cIhjt58EJjXKh-K2R0hCBBpam6Q2RHvPkk4&s=10",
       "m3u": "true"
     }
+  ],
+  "FLIX TV": [
+    {
+      "name": "FLIX web",
+      "url": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblFA9GxRB3nkznmruYoTgSXAJ18wujiWoWQ&s",
+      "m3u": "true"
+    }
   ]
 }
