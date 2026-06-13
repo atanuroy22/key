@@ -49,12 +49,6 @@
       "url": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/papaos.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNeq5o5PVPqx-Y86GSp7cIhjt58EJjXKh-K2R0hCBBpam6Q2RHvPkk4&s=10",
       "m3u": "true"
-    },
-    {
-      "name": "FIFA web 4k",
-      "url": "https://uplink.lazyspace.online/fifa.m3u",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNeq5o5PVPqx-Y86GSp7cIhjt58EJjXKh-K2R0hCBBpam6Q2RHvPkk4&s=10",
-      "m3u": "true"
     }
   ],
   "FLIX TV": [
