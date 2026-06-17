@@ -100,7 +100,7 @@
       }
     ]
   },
-  "Sports Events": [
+  "Extras": [
     {
       "name": "Live events",
       "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json",
