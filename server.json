@@ -75,5 +75,40 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
       "m3u": "true"
     }
+  ],
+  "hidden_servers": [
+    ".",
+    "FIFA 2026"
+  ],
+  "allow_servers": [
+    "Zee5 go"
+  ],
+  "custom_channels": {
+    "Cric HD web": [
+      {
+        "name": "Custom Live Match (M3U8)",
+        "url": "http://66.102.126.10:8000/play/a076/index.m3u8",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
+        "group": "Sports",
+        "type": "dash"
+      },
+      {
+        "name": "Sports ",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1706/HIN/master.m3u8?hdnea=exp=1781711400~acl=/*~id=91780643197812025920194737962860~hmac=6df009133c34abce00ad111ccd599b696789c3b3961e2de99e0b2ad73f640185",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sintel_poster.jpg/800px-Sintel_poster.jpg",
+        "group": "Movies",
+        "type": "hls"
+      }
+    ]
+  },
+  "Sports Events": [
+    {
+      "name": "Live events",
+      "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
+      "live_events": true,
+      "play_url": "http://localhost:8000/fancode/get-mpd.php?id={id}",
+      "license_url": "http://localhost:8000/fancode/drm-proxy?id={id}"
+    }
   ]
 }
