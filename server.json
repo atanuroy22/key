@@ -83,6 +83,7 @@
   "allow_servers": [
     "Zee5 go"
   ],
+  "live_servers": ["FIFA web", "FIFA web 2", "Live Match"],
   "custom_channels": {
     "Cric HD web": [
       {
@@ -93,9 +94,9 @@
       }
     ]
   },
-  "Sony": [
+  "Sports": [
     {
-      "name": "Live events test",
+      "name": "Live Match",
       "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
       "live_events": true,
