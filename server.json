@@ -75,7 +75,8 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
       "live_events": true,
       "play_url": "http://localhost:8000/fancode/get-mpd.php?id={id}",
-      "license_url": "http://localhost:8000/fancode/drm-proxy?id={id}"
+      "license_url": "http://localhost:8000/fancode/drm-proxy?id={id}",
+      "m3u": "true"
     },
     {
       "name": "Cric HD web",
