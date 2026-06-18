@@ -74,6 +74,12 @@
       "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
       "m3u": "true"
+    },
+    {
+      "name": "Live Match",
+      "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
+      "live_events": true
     }
   ],
   "hidden_servers": [
