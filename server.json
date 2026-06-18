@@ -84,6 +84,9 @@
     "Zee5 go"
   ],
   "live_servers": ["FIFA web", "FIFA web 2", "Live Match"],
+  "banner": "⚠ Tata play is under maintenance — use Jiotv+ .",
+  "banner_enabled": true,
+  "banner_scroll": true,
   "custom_channels": {
     "Cric HD web": [
       {
