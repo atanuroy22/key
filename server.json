@@ -70,15 +70,6 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNeq5o5PVPqx-Y86GSp7cIhjt58EJjXKh-K2R0hCBBpam6Q2RHvPkk4&s=10"
     },
     {
-      "name": "Live Match",
-      "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-      "live_events": true,
-      "play_url": "http://localhost:8000/fancode/get-mpd.php?id={id}",
-      "license_url": "http://localhost:8000/fancode/drm-proxy?id={id}",
-      "m3u": "true"
-    },
-    {
       "name": "Cric HD web",
       "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
