@@ -21,7 +21,7 @@
   "Zee5 SD": [
     {
     "name": "Zee5",
-    "url": "https://cloudplay-app-json.pages.dev/all-files/zee5.json",
+    "url": "https://cloudplay-app-json.pages.dev/all-files/zee5.m3u",
     "image": "https://i.postimg.cc/TwYPrm3d/Zee5-official-logo.jpg",
     "m3u": "true"
     },
