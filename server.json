@@ -51,6 +51,12 @@
   ],
   "Sports": [
     {
+      "name": "Cric HD web",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
+      "m3u": "true"
+    },
+    {
       "name": "FIFA web",
       "url": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/papaos.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNeq5o5PVPqx-Y86GSp7cIhjt58EJjXKh-K2R0hCBBpam6Q2RHvPkk4&s=10",
@@ -60,12 +66,6 @@
       "name": "FIFA web 2",
       "url": "https://stream.hwmlinks.site/",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNeq5o5PVPqx-Y86GSp7cIhjt58EJjXKh-K2R0hCBBpam6Q2RHvPkk4&s=10"
-    },
-    {
-      "name": "Cric HD web",
-      "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
-      "m3u": "true"
     }
   ],
   "hidden_servers": [
@@ -116,8 +116,8 @@
   "allow_servers": [
     "Zee5 go"
   ],
-  "live_servers": ["FIFA web", "FIFA web 2", "Live Match"],
-  "banner": "⚠ For FIFA and World cup — open Sports -> FIFA web/Cric HD web.",
+  "live_servers": ["FIFA web", "FIFA web 2", "Cric HD web", "Live Match"],
+  "banner": "⚠ For World cup — open Sports -> FIFA web/Cric HD web.",
   "banner_enabled": true,
   "banner_scroll": false,
   "upi": "atanukrroy15-2@okaxis",
