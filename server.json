@@ -119,7 +119,7 @@
   "live_servers": ["FIFA web", "FIFA web 2", "Live Match"],
   "banner": "⚠ For FIFA and World cup — open Sports -> FIFA web/Cric HD web.",
   "banner_enabled": true,
-  "banner_scroll": true,
+  "banner_scroll": false,
   "upi": "atanukrroy15-2@okaxis",
   "upi_number": "9564866051",
   "custom_channels": {
