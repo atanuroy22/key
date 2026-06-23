@@ -123,6 +123,7 @@
   "banner_scroll": false,
   "upi": "atanukrroy15-2@okaxis",
   "upi_number": "9564866051",
+  "min_app_version": "1.1.25",
   "custom_channels": {
     "Cric HD web": [
       {
