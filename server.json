@@ -118,7 +118,7 @@
   "allow_servers": [
     "Zee5 go"
   ],
-  "live_servers": ["FIFA web", "FIFA web 2", "Cric HD web", "Live Match"],
+  "live_servers": ["Live Match"],
   "banner": "⚠ World cup —> In Live Events. OR Sports 👇🏻",
   "banner_enabled": true,
   "banner_scroll": false,
