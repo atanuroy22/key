@@ -51,12 +51,6 @@
   ],
   "Sports": [
     {
-      "name": "Cric HD web",
-      "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
-      "m3u": "true"
-    },
-    {
       "name": "Star web",
       "url": "https://pastebin.com/raw/Xvmih9QL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
@@ -72,6 +66,12 @@
       "name": "FIFA web 2",
       "url": "https://stream.hwmlinks.site/",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNeq5o5PVPqx-Y86GSp7cIhjt58EJjXKh-K2R0hCBBpam6Q2RHvPkk4&s=10"
+    },
+    {
+      "name": "Cric HD web",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
+      "m3u": "true"
     }
   ],
   "hidden_servers": [
