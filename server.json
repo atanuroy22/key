@@ -134,5 +134,12 @@
     }
   ],
   "hidden_events": [ "" ],
-  "live_events_url": "https://.../my-feed.json"
+  "live_events_url": "https://.../my-feed.json",
+  "custom_movies": [
+    {
+      "name": "",
+      "image": "",
+      "url": ""
+    }
+  ]
 }
