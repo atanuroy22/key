@@ -97,9 +97,9 @@
     "Zee5 go"
   ],
   "live_servers": ["Live Match"],
-  "banner": "⚠ World cup —> In Live Events. OR Sports 👇🏻",
+  "banner": "[⚠ World cup —> In Live Events].[🎬Latest Movies -> In Movies]",
   "banner_enabled": true,
-  "banner_scroll": false,
+  "banner_scroll": true,
   "upi": "atanukrroy15-2@okaxis",
   "upi_number": "9564866051",
   "min_app_version": "1.1.25",
