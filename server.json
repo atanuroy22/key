@@ -28,6 +28,14 @@
      "m3u": "true"
     }
   ],
+  "Hotstar": [
+    {
+     "name": "Hotstar bkp",
+     "url": "https://host.cloudplay.me/app/hstr/main-hstr.php",
+     "logo": "https://ddindia.co.in/wp-content/uploads/2025/02/202502143327685.jpeg",
+     "m3u": "true"
+    }
+  ],
   "Zee5": [
     {
      "name": "Zee5 hd",
