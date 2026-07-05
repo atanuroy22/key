@@ -1,12 +1,6 @@
   {
   "Jiotv+": [
     {
-      "name": "Jiotv+ 1",
-      "url": "https://m3u-86e.pages.dev/jtv-mb.json",
-      "logo": "https://iili.io/f1zkPwP.md.png",
-      "m3u": "true"
-    },
-    {
       "name": "Jiotv+ bkp",
       "url": "https://m3u-86e.pages.dev/mbtv.json",
       "logo": "https://iili.io/f1zkPwP.md.png",
