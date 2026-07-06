@@ -1,6 +1,12 @@
   {
   "Jiotv+": [
     {
+ "name": "Vtv Jio TV+",
+"url": "https://billatv.modsdone.com/playlist/jtvh_vaibhav.php",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ97jLz_IEgK_4Y8QvSObSS9f3NnFBh68IxcELRZ7ZvQ&s=10",
+"m3u": true
+    },
+    {
       "name": "Jiotv+ bkp",
       "url": "https://m3u-86e.pages.dev/mbtv.json",
       "logo": "https://iili.io/f1zkPwP.md.png",
