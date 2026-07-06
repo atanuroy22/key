@@ -143,7 +143,7 @@
     "Vtv Jio TV+": [
       {
         "name": "Sun Bangla hd",
-        "group": "",
+        "group": "Bengali",
         "logo": "https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg",
         "id": "194388",
         "mpd_url": "https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd",
