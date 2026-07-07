@@ -62,8 +62,8 @@
   ],
   "Hotstar": [
     {
-     "name": "Vtv Hotstar",
-     "url": "https://billatv.modsdone.com/playlist/hot-sttar-vaibhav.php",
+     "name": "Hotstar bkp",
+     "url": "https://host.cloudplay.qzz.io/app/hstr/main-hstr-2.php",
      "logo": "https://img.hotstar.com/image/upload/v1738215515/helpdesk/new/portal/jio_hotstar_1200_630.png",
      "m3u": "true"
     }
