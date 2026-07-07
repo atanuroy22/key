@@ -42,12 +42,6 @@
      "url": "https://work.freelivtv.workers.dev/",
      "logo": "https://iili.io/f1zk6AB.jpg",
      "m3u": "true"
-    },
-    {
-     "name": "Sony (IND)",
-     "url": "https://cloudplay-app-json.pages.dev/all-files/sony.m3u",
-     "logo": "https://iili.io/f1zk6AB.jpg",
-     "m3u": "true"
     }
   ],
   "SunNxt": [
@@ -178,20 +172,6 @@
   "upi_number": "9564866051",
   "min_app_version": "1.1.26",
   "custom_channels": {
-    "Vtv Jio TV+": [
-      {
-        "name": "Sun Bangla hd",
-        "group": "Bengali",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OnL6QT5BNvRK_Wb5Qwtn8p0Js98RgtrYkw&s",
-        "id": "194388",
-        "mpd_url": "https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd",
-        "type": "dash",
-        "user_agent": "plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6",
-        "headers": {},
-        "expires_in": 0,
-        "license_url": "https://sony-token.vercel.app/api/results.php?keyid=01f7b9f7bf7e425f86d6dfd478390e3f&key=5fde68100a7856d055038236ffc7c84a"
-    }
-  ],
     "Cric HD web": [
       {
         "name": "",
