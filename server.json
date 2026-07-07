@@ -1,10 +1,34 @@
   {
   "Jiotv+": [
     {
+        "name": "Jiotv+",
+        "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
+        "logo": "https://iili.io/f1zkPwP.md.png",
+        "m3u": "true"
+    },
+    {
+        "name": "Jiotv+ 2",
+        "url": "https://m3u-86e.pages.dev/mbtv.json",
+        "logo": "https://iili.io/f1zkPwP.md.png",
+        "m3u": "true"
+    },
+    {
+        "name": "Jiotv+ Backup",
+        "url": "https://m3u-86e.pages.dev/jtv-mb.json",
+        "logo": "https://iili.io/f1zkPwP.md.png",
+        "m3u": "true"
+    },
+    {
+        "name": "Jiotv+ LX",
+        "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/jtv.m3u",
+        "logo": "https://iili.io/f1zkPwP.md.png",
+        "m3u": "true"
+    },
+    {
      "name": "Vtv Jio TV+",
      "url": "https://billatv.modsdone.com/playlist/jtvh_vaibhav.php",
      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ97jLz_IEgK_4Y8QvSObSS9f3NnFBh68IxcELRZ7ZvQ&s=10",
-     "m3u": true
+     "m3u": "true"
     },
     {
       "name": "Jiotv+ web",
