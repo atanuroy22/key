@@ -20,6 +20,12 @@
   ],
   "Sony": [
     {
+     "name": "Vtv Sony",
+     "url": "https://work.freelivtv.workers.dev/",
+     "logo": "https://iili.io/f1zk6AB.jpg",
+     "m3u": "true"
+    },
+    {
      "name": "Sony (IND)",
      "url": "https://cloudplay-app-json.pages.dev/all-files/sony.m3u",
      "logo": "https://iili.io/f1zk6AB.jpg",
