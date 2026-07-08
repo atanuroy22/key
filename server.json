@@ -147,7 +147,21 @@
     "Opplex",
     "Opplex TV",
     "Runn TV",
-    "RunnTV"
+    "RunnTV",
+    "MFtv AYNA",
+    "MFtv DISH TV",
+    "MFtv PISHOW",
+    "MFtv CRICHD",
+    "MFtv DANGAL TV",
+    "MFtv RUN TV",
+    "MFtv DARK TV",
+    "MFtv IZZI GO",
+    "MFtv WATCHO",
+    "MFtv Hotstar",
+    "_2 MFtv HOTSTAR",
+    "MFtv TATA IND 2",
+    "MFtv Radio India",
+    "MFtv Tata Play Premium"
   ],
   "allow_servers": [
     "Zee5 go"
