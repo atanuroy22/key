@@ -60,14 +60,6 @@
      "m3u": "true"
     }
   ],
-  "Hotstar": [
-    {
-     "name": "Hotstar bkp",
-     "url": "https://host.cloudplay.qzz.io/app/hstr/main-hstr-2.php",
-     "logo": "https://img.hotstar.com/image/upload/v1738215515/helpdesk/new/portal/jio_hotstar_1200_630.png",
-     "m3u": "true"
-    }
-  ],
   "Extras": [
     {
       "name": "IPTV India",
