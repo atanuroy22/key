@@ -46,11 +46,11 @@
      "m3u": "true"
     }
   ],
-  "Zee5": [
+  "MFtv Hotstar": [
     {
-     "name": "Zee5 hd",
-     "url": "https://cloudplay-app-json.pages.dev/all-files/zee5.m3u",
-     "logo": "https://iili.io/f1zkit1.png",
+     "name": "Hotstar bkp",
+     "url": "https://alex4528.site/playlist/jstar.m3u",
+     "logo": "https://img.hotstar.com/image/upload/v1738215515/helpdesk/new/portal/jio_hotstar_1200_630.png",
      "m3u": "true"
     }
   ],
