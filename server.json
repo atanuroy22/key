@@ -34,7 +34,7 @@
     {
      "name": "Sony bkp",
      "url": "https://json.cloudplay.qzz.io/all-files-raw/sony.m3u",
-     "logo": "https://iili.io/f1zk6AB.jpg"
+     "logo": "https://iili.io/f1zk6AB.jpg",
      "m3u": "true"
     }
   ],
@@ -42,7 +42,7 @@
     {
     "name": "Zee5 HD",
     "url": "https://json.cloudplay.qzz.io/all-files-raw/zee5.m3u",
-    "logo": "https://iili.io/f1zkit1.png"
+    "logo": "https://iili.io/f1zkit1.png",
      "m3u": "true"
     }
   ],
