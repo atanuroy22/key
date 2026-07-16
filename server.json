@@ -7,51 +7,9 @@
         "m3u": "true"
     },
     {
-        "name": "Jiotv+ 2",
-        "url": "https://m3u-86e.pages.dev/mbtv.json",
-        "logo": "https://iili.io/f1zkPwP.md.png",
-        "m3u": "true"
-    },
-    {
-        "name": "Jiotv+ Backup",
-        "url": "https://m3u-86e.pages.dev/jtv-mb.json",
-        "logo": "https://iili.io/f1zkPwP.md.png",
-        "m3u": "true"
-    },
-    {
-        "name": "Jiotv+ LX",
-        "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/jtv.m3u",
-        "logo": "https://iili.io/f1zkPwP.md.png",
-        "m3u": "true"
-    },
-    {
       "name": "Jiotv+ web",
       "url": "https://hatstar.netlify.app/",
       "image": "https://iili.io/f1zkPwP.md.png"
-    }
-  ],
-  "Sony": [
-    {
-     "name": "Sony bkp",
-     "url": "https://json.cloudplay.qzz.io/all-files-raw/sony.m3u",
-     "logo": "https://iili.io/f1zk6AB.jpg",
-     "m3u": "true"
-    }
-  ],
-  "Zee5": [
-    {
-    "name": "Zee5 HD",
-    "url": "https://json.cloudplay.qzz.io/all-files-raw/zee5.m3u",
-    "logo": "https://iili.io/f1zkit1.png",
-     "m3u": "true"
-    }
-  ],
-  "SunNxt": [
-    {
-     "name": "SunNxt bkp",
-     "url": "https://cloudplay-app-json.pages.dev/all-files/sunnxt.json",
-     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-jzeeqDzqQN4ggAnvOMRk_85HSTQUYiQCQ&s",
-     "m3u": "true"
     }
   ],
   "Hotstar": [
