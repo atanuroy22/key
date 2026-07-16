@@ -5,11 +5,6 @@
         "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
         "logo": "https://iili.io/f1zkPwP.md.png",
         "m3u": "true"
-    },
-    {
-      "name": "Jiotv+ web",
-      "url": "https://hatstar.netlify.app/",
-      "image": "https://iili.io/f1zkPwP.md.png"
     }
   ],
   "Hotstar": [
