@@ -1,12 +1,4 @@
   {
-  "Jiotv+": [
-    {
-        "name": "Jiotv+",
-        "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
-        "logo": "https://iili.io/f1zkPwP.md.png",
-        "m3u": "true"
-    }
-  ],
   "Hotstar": [
     {
      "name": "Hotstar bkp",
@@ -31,12 +23,6 @@
       "name": "StreamX IPTV",
       "url": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/api/v1/channels.json",
       "image": "https://images.dwncdn.net/images/t_app-icon-l/p/f4c00b0d-1f1c-43b9-b52f-5558b3502f3d/3707361364/iptv-player-smart-m3u8-cast-logo",
-      "m3u": "true"
-    },
-    {
-      "name": "Starshare web",
-      "url": "https://starsherskyfilexfun80.gojosare123.workers.dev/",
-      "image": "https://png.pngtree.com/png-vector/20240125/ourmid/pngtree-yellow-star-cartoon-isolated-png-image_11491265.png",
       "m3u": "true"
     }
   ],
