@@ -99,6 +99,9 @@
   "allow_servers": [
     "Zee5 go"
   ],
+  "server_groups": { 
+    "Sony": ["Sony by JioTV", "Sony HD"] 
+  },
   "live_servers": ["Live Match"],
   "banner": "[World cup -> In Live Events]⚠[Movies/Series -> In Movies]",
   "banner_enabled": true,
