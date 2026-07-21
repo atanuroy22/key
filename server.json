@@ -1,4 +1,12 @@
   {
+    "Jiotv+": [
+    {
+     "name": "Jio temp",
+     "url": "https://avengersiptv.online/short/language/WLPVK",
+     "logo": "https://img.hotstar.com/image/upload/v1738215515/helpdesk/new/portal/jio_hotstar_1200_630.png",
+     "m3u": "true"
+    }
+  ],
   "Hotstar": [
     {
      "name": "Hotstar bkp",
