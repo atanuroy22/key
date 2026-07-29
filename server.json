@@ -1,6 +1,12 @@
   {
   "Extras": [
     {
+      "name": "Jiotv+ strmflix",
+      "url": "https://raw.githubusercontent.com/Sflex0719/m3u/main/Zio.m3u",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpftTTH2t80FbIrX9dxLg-CmSfc5vHjkSkgp5a6fSxXQ&s=10",
+      "m3u": "true"
+    },
+    {
       "name": "IPTV India",
       "url": "https://iptv-org.github.io/iptv/countries/in.m3u",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYb5R7LlSTVyoW8EEgQlSc8vEwKxw_v8HiCQ&s",
