@@ -114,7 +114,7 @@
     "Zee5 go"
   ],
   "server_groups": { 
-    "Sony": ["Vtv Sony Liv", "MFtv Sony Live"],"Zee5": ["Vtv ZEE 5 OFFICIAL", "Zee5 Network"],"Sun NXT": ["MFtv SUN NXT"],"Sony": ["Vtv Hotstar", "MFtv "]
+    "Sony": ["Vtv Sony Liv", "MFtv Sony Live"],"Zee5": ["Vtv ZEE 5 OFFICIAL", "Zee5 Network"],"Sun NXT": ["MFtv SUN NXT"],"Hotstar": ["Vtv Hotstar"],"Extras": ["Lg TV", "OxxoLive", "YuppTv"]
   },
   "live_servers": ["Live Match"],
   "banner": "[World cup -> In Live Events]⚠[Movies/Series -> In Movies]",
