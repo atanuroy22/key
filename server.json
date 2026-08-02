@@ -15,16 +15,14 @@
     {
       "name": "Vtv Zee5",
       "url": "https://billatv.modsdone.com/playlist/zee.php",
-      "logo": "https://i.gifer.com/3Ozvt.gif",
-      "m3u": "true"
+      "logo": "https://i.gifer.com/3Ozvt.gif"
     }
   ],
   "Sony Liv": [
     {
       "name": "Vtv Sony Liv",
       "url": "https://work.freelivtv.workers.dev/",
-      "logo": "https://i.ibb.co/cX20MK6Z/Slivvd.png",
-      "m3u": "true"
+      "logo": "https://i.ibb.co/cX20MK6Z/Slivvd.png"
     }
   ],
   "Sun NXT": [
@@ -39,8 +37,7 @@
     {
       "name": "Vtv Hotstar",
       "url": "https://billatv.modsdone.com/playlist/hot-sttar-vaibhav.php",
-      "logo": "https://www.livemint.com/lm-img/img/2025/02/14/optimize/Screenshot_2025-02-14_065533_1739496378365_1739496389150.png",
-      "m3u": "true"
+      "logo": "https://www.livemint.com/lm-img/img/2025/02/14/optimize/Screenshot_2025-02-14_065533_1739496378365_1739496389150.png"
     }
   ],
   "Extras": [
