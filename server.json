@@ -11,13 +11,6 @@
         "logo": "https://iili.io/f1zkPwP.md.png"
     }
   ],
-  "Hotstar": [
-    {
-      "name": "t1",
-      "url": "https://dummy-link-so-it-groups",
-      "logo": "https://i.ibb.co/cX20MK6Z/Slivvd.png"
-    }
-  ],
   "Extras": [
     {
       "name": "IPTV India",
@@ -116,7 +109,10 @@
     "MFtv TATA IND 2",
     "MFtv Radio India",
     "MFtv Tata Play Premium",
-    "MFtv World Sport"
+    "MFtv World Sport",
+    "Lg TV",
+    "OxoLive",
+    "Yupp Tv"
   ],
   "allow_servers": [
     "Zee5 go"
