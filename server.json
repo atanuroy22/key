@@ -11,6 +11,38 @@
         "logo": "https://iili.io/f1zkPwP.md.png"
     }
   ],
+  "Zee5": [
+    {
+      "name": "Zee5",
+      "url": "https://billatv.modsdone.com/playlist/zee.php",
+      "logo": "https://i.gifer.com/3Ozvt.gif",
+      "m3u": "true"
+    }
+  ],
+  "Sony Liv": [
+    {
+      "name": "Sony Liv",
+      "url": "https://work.freelivtv.workers.dev/",
+      "logo": "https://i.ibb.co/cX20MK6Z/Slivvd.png",
+      "m3u": "true"
+    }
+  ],
+  "Sun NXT": [
+    {
+      "name": "Sun NXT",
+      "url": "https://getapks.pages.dev/Sunnxt.m3u",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-jzeeqDzqQN4ggAnvOMRk_85HSTQUYiQCQ&s",
+      "m3u": "true"
+    }
+  ],
+  "Hotstar": [
+    {
+      "name": "VtvHotstar",
+      "url": "https://billatv.modsdone.com/playlist/hot-sttar-vaibhav.php",
+      "logo": "https://www.livemint.com/lm-img/img/2025/02/14/optimize/Screenshot_2025-02-14_065533_1739496378365_1739496389150.png",
+      "m3u": "true"
+    }
+  ],
   "Extras": [
     {
       "name": "IPTV India",
