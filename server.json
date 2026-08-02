@@ -6,47 +6,9 @@
         "logo": "https://iili.io/f1zkPwP.md.png"
     },
     {
-        "name": "Vtv Jiotv+",
-        "url": "https://billatv.modsdone.com/playlist/jtvh_vaibhav.php",
-        "logo": "https://iili.io/f1zkPwP.md.png",
-        "m3u": "true"
-    },
-    {
         "name": "Jiotv+ Backup",
         "url": "https://m3u-86e.pages.dev/mbtv.json",
         "logo": "https://iili.io/f1zkPwP.md.png"
-    }
-  ],
-  "Zee5": [
-    {
-      "name": "Vtv Zee5",
-      "url": "https://billatv.modsdone.com/playlist/zee.php",
-      "logo": "https://i.gifer.com/3Ozvt.gif",
-      "m3u": "true"
-    }
-  ],
-  "Sony Liv": [
-    {
-      "name": "Vtv Sony Liv",
-      "url": "https://work.freelivtv.workers.dev/",
-      "logo": "https://i.ibb.co/cX20MK6Z/Slivvd.png",
-      "m3u": "true"
-    }
-  ],
-  "Sun NXT": [
-    {
-      "name": "Sun NXT",
-      "url": "https://getapks.pages.dev/Sunnxt.m3u",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-jzeeqDzqQN4ggAnvOMRk_85HSTQUYiQCQ&s",
-      "m3u": "true"
-    }
-  ],
-  "Hotstar": [
-    {
-      "name": "Vtv Hotstar",
-      "url": "https://billatv.modsdone.com/playlist/hot-sttar-vaibhav.php",
-      "logo": "https://www.livemint.com/lm-img/img/2025/02/14/optimize/Screenshot_2025-02-14_065533_1739496378365_1739496389150.png",
-      "m3u": "true"
     }
   ],
   "Extras": [
@@ -122,7 +84,6 @@
     "Shoq Tv",
     "Shoq Tv 2",
     "Shoq Network",
-    "Zee5 Network",
     "Stalker Portal",
     "SonyLiv Events",
     "SonyLiv Events 2",
@@ -153,7 +114,7 @@
     "Zee5 go"
   ],
   "server_groups": { 
-    "Sony": ["Sony by JioTV", "Sony HD"] 
+    "Sony": ["Vtv Sony Liv", "MFtv Sony Live"],"Zee5": ["Vtv ZEE 5 OFFICIAL", "Zee5 Network"],"Sun NXT": ["MFtv SUN NXT"],"Sony": ["Vtv Hotstar", "MFtv "]
   },
   "live_servers": ["Live Match"],
   "banner": "[World cup -> In Live Events]⚠[Movies/Series -> In Movies]",
