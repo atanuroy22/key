@@ -136,32 +136,10 @@
   "upi": "atanukrroy15-2@okaxis",
   "upi_number": "9564866051",
   "min_app_version": "1.1.28",
-  "custom_channels": {
-    "Cric HD web": [
-      {
-        "name": "",
-        "url": "",
-        "logo": "",
-        "group": ""
-      }
-    ]
-  },
-  "live_events": [
-    {
-      "name":   "",
-      "logo":   "",
-      "url":    "",
-      "group":  "",
-      "status": ""
-    }
-  ],
+  "custom_channels": {"Cric HD web": [{"name": "","url": "","logo": "","group": ""}]},
+  "custom_server_urls": {"Alliance Broadband": ["https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",""]},
+  "live_events": [{"name": "","logo": "","url": "","group": "","status": ""}],
   "hidden_events": [ "" ],
   "live_events_url": "https://.../my-feed.json",
-  "custom_movies": [
-    {
-      "name": "",
-      "image": "",
-      "url": ""
-    }
-  ]
+  "custom_movies": [{"name": "","image": "","url": ""}]
 }
