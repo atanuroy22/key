@@ -13,6 +13,14 @@
         "logo": "https://iili.io/f1zkPwP.md.png"
     }
   ],
+  "Sony": [
+    {
+    "name": "Sony (IN)",
+    "url": "https://json.cloudplay.qzz.io/all-files-raw/sony.m3u",
+    "logo": "https://iili.io/f1zk6AB.jpg",
+    "m3u": "true"
+  }
+  ],
   "Extras": [
     {
       "name": "IPTV India",
