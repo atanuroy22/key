@@ -4,6 +4,7 @@
   "username": "YW50bnUzODI4",
   "password": "YW50bnVANzM4OA==",
   "token": "fd8e4b799fc7c94a78750aaa678973eff4090758b698921136ebedfe783db686",
+  "token_expiry": "2026-09-03 19:55:39",
   "login": false,
   "Jiotv+": [
     {
@@ -199,6 +200,5 @@
     "runn TV",
     "OxoLive",
     "Yupp Tv"
-  ],
-  "token_expiry": "2026-09-03 19:55:39"
+  ]
 }
