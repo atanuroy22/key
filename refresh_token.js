@@ -4,15 +4,26 @@ const path = require('path');
 
 // Refresh CloudPlay token and update server.json
 // Called by cron every 12 hours
+// Reads username/password FROM server.json (supports plain text or base64)
 
 const SERVER_JSON_PATH = path.join(__dirname, 'server.json');
 
-function generateToken() {
+function decodeCredential(value) {
+    // Try base64 decode first (server.json stores credentials as base64)
+    try {
+        const decoded = Buffer.from(value, 'base64').toString('utf8');
+        // Only use decoded value if it looks like valid text (not binary garbage)
+        if (decoded && /^[\x20-\x7E]+$/.test(decoded)) {
+            return decoded;
+        }
+    } catch (_) {}
+    // Fall back to plain text
+    return value;
+}
+
+function generateToken(username, password) {
     return new Promise((resolve, reject) => {
-        const postData = JSON.stringify({
-            username: 'antnu3828',
-            password: 'antnu@7388'
-        });
+        const postData = JSON.stringify({ username, password });
 
         const req = https.request({
             hostname: 'n1.cloudplay.qzz.io',
@@ -48,14 +59,12 @@ function generateToken() {
 }
 
 function updateServerJson(newToken) {
-    // Read current server.json
     const content = fs.readFileSync(SERVER_JSON_PATH, 'utf8');
     const config = JSON.parse(content);
 
     // Only update the token field - don't touch anything else
     config.token = newToken;
 
-    // Write back with same formatting
     fs.writeFileSync(SERVER_JSON_PATH, JSON.stringify(config, null, 2) + '\n');
     console.log(`[${new Date().toISOString()}] Token refreshed successfully`);
     console.log(`New token: ${newToken.substring(0, 8)}...`);
@@ -64,7 +73,24 @@ function updateServerJson(newToken) {
 async function main() {
     try {
         console.log(`[${new Date().toISOString()}] Starting token refresh...`);
-        const token = await generateToken();
+
+        // Read credentials from server.json
+        const content = fs.readFileSync(SERVER_JSON_PATH, 'utf8');
+        const config = JSON.parse(content);
+
+        const rawUsername = config.username;
+        const rawPassword = config.password;
+
+        if (!rawUsername || !rawPassword) {
+            throw new Error('username or password not found in server.json');
+        }
+
+        const username = decodeCredential(rawUsername);
+        const password = decodeCredential(rawPassword);
+
+        console.log(`Login as: ${username}`);
+
+        const token = await generateToken(username, password);
         updateServerJson(token);
         process.exit(0);
     } catch (error) {
