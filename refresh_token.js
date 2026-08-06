@@ -43,7 +43,11 @@ function generateToken(username, password) {
                 try {
                     const json = JSON.parse(body);
                     if (json.success && json.token) {
-                        resolve(json.token);
+                        // Return token + expiry (account expiry from API)
+                        resolve({
+                            token: json.token,
+                            expiresAt: json.user?.expires_at || null
+                        });
                     } else {
                         reject(new Error('Login failed: ' + body));
                     }
@@ -58,16 +62,22 @@ function generateToken(username, password) {
     });
 }
 
-function updateServerJson(newToken) {
+function updateServerJson(tokenData) {
     const content = fs.readFileSync(SERVER_JSON_PATH, 'utf8');
     const config = JSON.parse(content);
 
-    // Only update the token field - don't touch anything else
-    config.token = newToken;
+    // Update token and expiry — don't touch anything else
+    config.token = tokenData.token;
+    if (tokenData.expiresAt) {
+        config.token_expiry = tokenData.expiresAt;
+    }
 
     fs.writeFileSync(SERVER_JSON_PATH, JSON.stringify(config, null, 2) + '\n');
     console.log(`[${new Date().toISOString()}] Token refreshed successfully`);
-    console.log(`New token: ${newToken.substring(0, 8)}...`);
+    console.log(`New token: ${tokenData.token.substring(0, 8)}...`);
+    if (tokenData.expiresAt) {
+        console.log(`Expires: ${tokenData.expiresAt}`);
+    }
 }
 
 async function main() {
@@ -90,8 +100,8 @@ async function main() {
 
         console.log(`Login as: ${username}`);
 
-        const token = await generateToken(username, password);
-        updateServerJson(token);
+        const tokenData = await generateToken(username, password);
+        updateServerJson(tokenData);
         process.exit(0);
     } catch (error) {
         console.error(`[${new Date().toISOString()}] Token refresh failed:`, error.message);
