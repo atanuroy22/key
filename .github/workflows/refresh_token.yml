@@ -1,0 +1,31 @@
+name: Refresh CloudPlay Token
+
+on:
+  schedule:
+    # Run every 12 hours at :07 past the hour
+    - cron: '7 */12 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  refresh-token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Generate fresh token
+        run: node refresh_token.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add server.json
+          # Only commit if server.json actually changed
+          git diff --cached --quiet || git commit -m "chore: auto-refresh CloudPlay token [skip ci]"
+          git push

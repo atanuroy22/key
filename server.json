@@ -3,27 +3,27 @@
   "key_base": "cppremium",
   "username": "YW50bnUzODI4",
   "password": "YW50bnVANzM4OA==",
-  "token": "4cf3b310b29430b4ee410a8041bf86b441cd289bf6bf538a60f0969ecc495828",
+  "token": "d0bde412c4ebd073dfefff4728f63585d11f44e01286a92c20880c768f1b5352",
   "login": false,
   "Jiotv+": [
     {
-        "name": "Jiotv+",
-        "url": "https://m3u-86e.pages.dev/jtv-mb.json",
-        "logo": "https://iili.io/f1zkPwP.md.png"
+      "name": "Jiotv+",
+      "url": "https://m3u-86e.pages.dev/jtv-mb.json",
+      "logo": "https://iili.io/f1zkPwP.md.png"
     },
     {
-        "name": "Jiotv+ Backup",
-        "url": "https://m3u-86e.pages.dev/mbtv.json",
-        "logo": "https://iili.io/f1zkPwP.md.png"
+      "name": "Jiotv+ Backup",
+      "url": "https://m3u-86e.pages.dev/mbtv.json",
+      "logo": "https://iili.io/f1zkPwP.md.png"
     }
   ],
   "Sony": [
     {
-    "name": "Sony (IN)",
-    "url": "https://json.cloudplay.qzz.io/all-files-raw/sony.m3u",
-    "logo": "https://iili.io/f1zk6AB.jpg",
-    "m3u": "true"
-  }
+      "name": "Sony (IN)",
+      "url": "https://json.cloudplay.qzz.io/all-files-raw/sony.m3u",
+      "logo": "https://iili.io/f1zk6AB.jpg",
+      "m3u": "true"
+    }
   ],
   "Extras": [
     {
@@ -51,20 +51,40 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNeq5o5PVPqx-Y86GSp7cIhjt58EJjXKh-K2R0hCBBpam6Q2RHvPkk4&s=10",
       "m3u": "true"
     },
-   {
+    {
       "name": "Cric HD web",
       "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHDoREdYv341_YCruoBBS4nhKdOGT4PjuKQ&s",
       "m3u": "true"
-   }
+    }
   ],
   "allow_servers": [
     "Zee5 go"
   ],
-  "server_groups": { 
-    "Sony": ["Vtv Sony Liv", "MFtv Sony Live"],"Zee5": ["Vtv ZEE 5 OFFICIAL", "Zee5 Network"],"Sun NXT": ["MFtv SUN NXT"],"Hotstar": ["Vtv Hotstar"],"Extras": ["Lg TV", "OxoLive", "Yupp Tv"]
+  "server_groups": {
+    "Sony": [
+      "Vtv Sony Liv",
+      "MFtv Sony Live"
+    ],
+    "Zee5": [
+      "Vtv ZEE 5 OFFICIAL",
+      "Zee5 Network"
+    ],
+    "Sun NXT": [
+      "MFtv SUN NXT"
+    ],
+    "Hotstar": [
+      "Vtv Hotstar"
+    ],
+    "Extras": [
+      "Lg TV",
+      "OxoLive",
+      "Yupp Tv"
+    ]
   },
-  "live_servers": ["Live Match"],
+  "live_servers": [
+    "Live Match"
+  ],
   "banner": "[World cup -> In Live Events]⚠[Movies/Series -> In Movies]",
   "banner_enabled": true,
   "banner_scroll": false,
@@ -77,22 +97,107 @@
   "upi": "atanukrroy15-2@okaxis",
   "upi_number": "9564866051",
   "min_app_version": "1.1.28",
-  "custom_channels": {"Cric HD web": [{"name": "","url": "","logo": "","group": ""}]},
-  "custom_server_urls": {"Alliance Broadband": ["https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u"]},
-  "live_events": [{"name": "","logo": "","url": "","group": "","status": ""}],
-  "hidden_events": [ "" ],
+  "custom_channels": {
+    "Cric HD web": [
+      {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "group": ""
+      }
+    ]
+  },
+  "custom_server_urls": {
+    "Alliance Broadband": [
+      "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u"
+    ]
+  },
+  "live_events": [
+    {
+      "name": "",
+      "logo": "",
+      "url": "",
+      "group": "",
+      "status": ""
+    }
+  ],
+  "hidden_events": [
+    ""
+  ],
   "live_events_url": "https://.../my-feed.json",
-  "custom_movies": [{"name": "","image": "","url": ""}],
+  "custom_movies": [
+    {
+      "name": "",
+      "image": "",
+      "url": ""
+    }
+  ],
   "hidden_servers": [
-    ".","Vtv Jio TV","Vtv Jio Hotstar","FIFA 2026","Vtv Movies","Vtv XUMO","Vtv XIAOMI TV+","Vtv VIZIO","Vtv TUBI TV","Vtv TABLO TV",
-    "Vtv FIRE TV","Vtv DISTRO TV","Vtv FREE TV","Vtv RUN TV","Vtv WAVES OTT   {Worldwide}",
-    "Vtv Dish Home (HD)   {Worldwide}","Vtv OPPLEX TV  {Worldwide}","Vtv FIFA 2026","Vtv FIFA Server 2","Vtv Zee5 Live  {Fifa}",
-    "Vtv Live Events","Vtv Sony Liv Worldwide","Vtv PIRATES TV","Vtv TATA PLAY","Vtv FANCODE LIVE  {Worldwide}",
-    "Vtv Lg TV", "Fancode","Fancode 2","Fancode Network","Sony By Jio","Sony For Worldwide","Sony (Backup)",
-    "Tata Play","Tata Play (Backup)","Tata Play IN","Tata Play Local","Shoq Tv","Shoq Tv 2","Shoq Network",
-    "Stalker Portal","SonyLiv Events","SonyLiv Events 2", "JioTV+ (Backup)", "Opplex","Opplex TV","MFtv AYNA",
-    "MFtv DISH TV", "MFtv PISHOW","MFtv CRICHD","MFtv DANGAL TV","MFtv RUN TV","MFtv DARK TV","MFtv IZZI GO",
-    "MFtv WATCHO","MFtv Hotstar","MFtv JIOHOTSTAR","MFtv Jiotv Backup","MFtv Temp Backup","_2 MFtv HOTSTAR",
-    "MFtv TATA IND 2", "MFtv Radio India","MFtv Tata Play Premium","MFtv World Sport", "runn TV", "OxoLive", "Yupp Tv"
+    ".",
+    "Vtv Jio TV",
+    "Vtv Jio Hotstar",
+    "FIFA 2026",
+    "Vtv Movies",
+    "Vtv XUMO",
+    "Vtv XIAOMI TV+",
+    "Vtv VIZIO",
+    "Vtv TUBI TV",
+    "Vtv TABLO TV",
+    "Vtv FIRE TV",
+    "Vtv DISTRO TV",
+    "Vtv FREE TV",
+    "Vtv RUN TV",
+    "Vtv WAVES OTT   {Worldwide}",
+    "Vtv Dish Home (HD)   {Worldwide}",
+    "Vtv OPPLEX TV  {Worldwide}",
+    "Vtv FIFA 2026",
+    "Vtv FIFA Server 2",
+    "Vtv Zee5 Live  {Fifa}",
+    "Vtv Live Events",
+    "Vtv Sony Liv Worldwide",
+    "Vtv PIRATES TV",
+    "Vtv TATA PLAY",
+    "Vtv FANCODE LIVE  {Worldwide}",
+    "Vtv Lg TV",
+    "Fancode",
+    "Fancode 2",
+    "Fancode Network",
+    "Sony By Jio",
+    "Sony For Worldwide",
+    "Sony (Backup)",
+    "Tata Play",
+    "Tata Play (Backup)",
+    "Tata Play IN",
+    "Tata Play Local",
+    "Shoq Tv",
+    "Shoq Tv 2",
+    "Shoq Network",
+    "Stalker Portal",
+    "SonyLiv Events",
+    "SonyLiv Events 2",
+    "JioTV+ (Backup)",
+    "Opplex",
+    "Opplex TV",
+    "MFtv AYNA",
+    "MFtv DISH TV",
+    "MFtv PISHOW",
+    "MFtv CRICHD",
+    "MFtv DANGAL TV",
+    "MFtv RUN TV",
+    "MFtv DARK TV",
+    "MFtv IZZI GO",
+    "MFtv WATCHO",
+    "MFtv Hotstar",
+    "MFtv JIOHOTSTAR",
+    "MFtv Jiotv Backup",
+    "MFtv Temp Backup",
+    "_2 MFtv HOTSTAR",
+    "MFtv TATA IND 2",
+    "MFtv Radio India",
+    "MFtv Tata Play Premium",
+    "MFtv World Sport",
+    "runn TV",
+    "OxoLive",
+    "Yupp Tv"
   ]
 }
