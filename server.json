@@ -88,7 +88,8 @@
     {
       "name": "Hotstar",
       "url": "https://host.cloudplay.qzz.io/app/hstr/main-hstr-2.php",
-      "logo": "https://i.postimg.cc/g2Tt3MjT/hotstar.webp"
+      "logo": "https://i.postimg.cc/g2Tt3MjT/hotstar.webp",
+      "m3u": "true"
     }
   ],
    "Sun NXT": [
