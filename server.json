@@ -16,6 +16,46 @@
       "name": "Jiotv+ Backup",
       "url": "https://m3u-86e.pages.dev/mbtv.json",
       "logo": "https://iili.io/f1zkPwP.md.png"
+    },
+    {
+      "name": "Jiotv+",
+      "url": "https://m3u.cloudplay.qzz.io/pllive-prm.json",
+      "logo": "https://iili.io/f1zkPwP.md.png"
+    },
+    {
+      "name": "Jiotv+ 2",
+      "url": "https://m3u.cloudplay.qzz.io/mbjtv-pro.json",
+      "logo": "https://iili.io/f1zkPwP.md.png"
+    },
+    {
+      "name": "Jiotv+ Backup",
+      "url": "https://m3u.cloudplay.qzz.io/jtv-mb.json",
+      "logo": "https://iili.io/f1zkPwP.md.png"
+    },
+    {
+      "name": "Jiotv+ 1trial",
+      "url": "https://m3u.cloudplay.qzz.io/mbjtv-pro.txt",
+      "logo": "https://iili.io/f1zkPwP.md.png",
+      "m3u": "true"
+    },
+    {
+      "name": "BSNL Tango",
+      "url": "https://m3u.cloudplay.qzz.io/bsnltango.txt",
+      "logo": "https://i.postimg.cc/NM007Phc/bsnl.avif",
+      "m3u": "true"
+    }
+  ],
+   "Zee5": [
+    {
+      "name": "Zee5",
+      "url": "https://cloudplay-app-json.pages.dev/pro-raw-files/zee5.m3u",
+      "logo": "https://iili.io/f1zkit1.png",
+      "m3u": "true"
+    },
+    {
+      "name": "Zee5 SD",
+      "url": "https://cloudplay-app-json.pages.dev/pro-raw-files/zee5-sd.json",
+      "logo": "https://i.postimg.cc/TwYPrm3d/Zee5-official-logo.jpg"
     }
   ],
   "Sony": [
@@ -24,6 +64,38 @@
       "url": "https://json.cloudplay.qzz.io/all-files-raw/sony.m3u",
       "logo": "https://iili.io/f1zk6AB.jpg",
       "m3u": "true"
+    },
+    {
+      "name": "Sony Network",
+      "url": "https://cloudplay-app-json.pages.dev/pro-raw-files/sony.m3u",
+      "logo": "https://iili.io/f1zk6AB.jpg",
+      "m3u": "true"
+    },
+    {
+      "name": "SonyLiv Events",
+      "url": "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.m3u",
+      "logo": "https://i.postimg.cc/tTwNq61s/Untitled-3.png",
+      "m3u": "true"
+    },
+    {
+      "name": "SonyLiv Events 2",
+      "url": "https://raw.githubusercontent.com/doctor-8trange/zyphora/main/data/sony.m3u",
+      "logo": "https://i.postimg.cc/tTwNq61s/Untitled-3.png",
+      "m3u": "true"
+    }
+  ],
+   "Hotstar": [
+    {
+      "name": "Hotstar",
+      "url": "https://host.cloudplay.qzz.io/app/hstr/main-hstr-2.php",
+      "logo": "https://i.postimg.cc/g2Tt3MjT/hotstar.webp"
+    }
+  ],
+   "Sun NXT": [
+    {
+      "name": "Sun NXT",
+      "url": "https://cloudplay-app-json.pages.dev/pro-raw-files/sunnxt.json",
+      "logo": "https://i.postimg.cc/qR6Rxcn3/sunnxt.png"
     }
   ],
   "Extras": [
