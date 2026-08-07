@@ -3,9 +3,10 @@
   "key_base": "cppremium",
   "username": "YW50bnUzODI4",
   "password": "YW50bnVANzM4OA==",
-  "token": "58acbb73ecfd5f9bf27f6757bc9879990380219066b4087bd78fda5c223f92d7",
+  "token": "da7831f1a9562c549c4a9c697a1df698c5d05c2ae62404fd9b54076ac0a0c186",
   "token_expiry": "2026-09-03 19:55:39",
   "login": true,
+>>>>>>> 9145c55 (fix: add device ID headers to login request for token binding)
   "Jiotv+": [
     {
       "name": "Jiotv+",

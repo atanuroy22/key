@@ -34,7 +34,9 @@ function generateToken(username, password) {
                 'Content-Length': Buffer.byteLength(postData),
                 'X-Package': 'com.cloudplay.app',
                 'X-Client': 'cloudplay-android',
-                'User-Agent': 'CloudPlay/1.0'
+                'User-Agent': 'CloudPlay/1.0',
+                'uniqueId': '24662b4f995b7b3d',
+                'deviceId': '24662b4f995b7b3d'
             }
         }, res => {
             let body = '';
