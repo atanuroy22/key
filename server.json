@@ -83,31 +83,6 @@
       "logo": "https://i.postimg.cc/qR6Rxcn3/sunnxt.png"
     }
   ],
-  "Extras": [
-    {
-      "name": "kuku trial",
-      "url": "https://cloudplay-app-json.pages.dev/stat/kuku_hindi.m3u",
-      "logo": "",
-      "m3u": "true"
-    },
-    {
-      "name": "IPTV India",
-      "url": "https://iptv-org.github.io/iptv/countries/in.m3u",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYb5R7LlSTVyoW8EEgQlSc8vEwKxw_v8HiCQ&s",
-      "m3u": "true"
-    },
-    {
-      "name": "Yupptv web",
-      "url": "https://www.yupptv.com/fast-tv",
-      "image": "https://sla-digital.com/content/uploads/2016/11/Untitled-design-37-1024x616.png"
-    },
-    {
-      "name": "StreamX IPTV",
-      "url": "https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/api/v1/channels.json",
-      "image": "https://images.dwncdn.net/images/t_app-icon-l/p/f4c00b0d-1f1c-43b9-b52f-5558b3502f3d/3707361364/iptv-player-smart-m3u8-cast-logo",
-      "m3u": "true"
-    }
-  ],
   "Sports": [
     {
       "name": "FIFA web",
