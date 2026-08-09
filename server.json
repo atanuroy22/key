@@ -14,11 +14,6 @@
       "logo": "https://iili.io/f1zkPwP.md.png"
     },
     {
-      "name": "Jiotv+ Backup",
-      "url": "https://m3u-86e.pages.dev/mbtv.json",
-      "logo": "https://iili.io/f1zkPwP.md.png"
-    },
-    {
       "name": "Jiotv+",
       "url": "https://m3u.cloudplay.qzz.io/pllive-prm.json",
       "logo": "https://iili.io/f1zkPwP.md.png"
@@ -32,18 +27,6 @@
       "name": "Jiotv+ Backup",
       "url": "https://m3u.cloudplay.qzz.io/jtv-mb.json",
       "logo": "https://iili.io/f1zkPwP.md.png"
-    },
-    {
-      "name": "Jiotv+ 1trial",
-      "url": "https://m3u.cloudplay.qzz.io/mbjtv-pro.txt",
-      "logo": "https://iili.io/f1zkPwP.md.png",
-      "m3u": "true"
-    },
-    {
-      "name": "BSNL Tango",
-      "url": "https://m3u.cloudplay.qzz.io/bsnltango.txt",
-      "logo": "https://i.postimg.cc/NM007Phc/bsnl.avif",
-      "m3u": "true"
     }
   ],
    "Zee5": [
