@@ -9,16 +9,6 @@
   "token_login": false,
   "Jiotv+": [
     {
-      "name": "Jiotv+",
-      "url": "https://m3u.cloudplay.qzz.io/pllive-prm.json",
-      "logo": "https://iili.io/f1zkPwP.md.png"
-    },
-    {
-      "name": "Jiotv+ 2",
-      "url": "https://m3u.cloudplay.qzz.io/mbjtv-pro.json",
-      "logo": "https://iili.io/f1zkPwP.md.png"
-    },
-    {
       "name": "Jiotv+ Backup",
       "url": "https://m3u.cloudplay.qzz.io/jtv-mb.json",
       "logo": "https://iili.io/f1zkPwP.md.png"
