@@ -8,11 +8,26 @@
   "login": false,
   "token_login": false,
   "Jiotv+": [
-    {
-      "name": "Jiotv+ Backup",
-      "url": "https://m3u.cloudplay.qzz.io/jtv-mb.json",
-      "logo": "https://iili.io/f1zkPwP.md.png"
-    }
+  {
+    "name": "Jiotv+",
+    "url": "https://m3u.cloudplay.qzz.io/prm-m3u/pllive-prm.m3u",
+    "logo": "https://iili.io/f1zkPwP.md.png"
+  },
+  {
+    "name": "Jiotv+ 2",
+    "url": "https://m3u.cloudplay.qzz.io/prm-m3u/mbjtv-pro.m3u",
+    "logo": "https://iili.io/f1zkPwP.md.png"
+  },
+  {
+    "name": "Jiotv+ 2",
+    "url": "https://m3u.cloudplay.qzz.io/prm-m3u/jtv-host.m3u",
+    "logo": "https://iili.io/f1zkPwP.md.png"
+  },
+  {
+    "name": "Jiotv+ Backup",
+    "url": "https://m3u.cloudplay.qzz.io/prm-m3u/wt-mbtv.txt",
+    "logo": "https://iili.io/f1zkPwP.md.png"
+  }
   ],
    "Zee5": [
     {
