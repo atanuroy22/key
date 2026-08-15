@@ -26,7 +26,8 @@
   {
     "name": "Jiotv+ Backup",
     "url": "https://m3u.cloudplay.qzz.io/prm-m3u/wt-mbtv.txt",
-    "logo": "https://iili.io/f1zkPwP.md.png"
+    "logo": "https://iili.io/f1zkPwP.md.png",
+    "m3u": "true"
   }
   ],
    "Zee5": [
