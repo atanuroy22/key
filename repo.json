@@ -1,5 +1,6 @@
 {
   "jiotv_go": "atanuroy22/jiotv_go",
   "jiotv_go_app": "atanuroy22/jiotv_go_app",
-  "server_json_url": "https://raw.githubusercontent.com/atanuroy22/j/refs/heads/main/server.json"
+  "server_json_url": "https://raw.githubusercontent.com/atanuroy22/j/refs/heads/main/server.json",
+  "key_url": "https://raw.githubusercontent.com/atanuroy22/j/refs/heads/main/j"
 }
