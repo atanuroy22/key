@@ -107,6 +107,7 @@
   "live_servers": [
     "Live Match"
   ],
+  "playz_channels_enabled": true,
   "banner": "[World cup -> In Live Events]⚠[Movies/Series -> In Movies]",
   "banner_enabled": true,
   "banner_scroll": false,
@@ -118,7 +119,7 @@
   "movie_banner_scroll": true,
   "upi": "atanukrroy15-2@okaxis",
   "upi_number": "9564866051",
-  "min_app_version": "1.1.29",
+  "min_app_version": "1.1.30",
   "custom_channels": {
     "Cric HD web": [
       {
