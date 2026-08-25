@@ -1,11 +1,11 @@
 name: Refresh CloudPlay Token
 
 on:
-  schedule:
+  # schedule:
     # Run every 12 hours at :07 past the hour
     # - cron: '7 */12 * * *'
     # Run every Sunday at 00:07 UTC
-    - cron: '7 0 * * 0'
+    # - cron: '7 0 * * 0'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
